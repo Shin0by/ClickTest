@@ -1,0 +1,7 @@
+;!@Install@!UTF-8!
+RunProgram="setup.exe /s"
+InstallPath="%TEMP%\\Mouse ClickTest"
+ExtractTitle="Unpack Mouse ClicktTest"
+GUIMode="1"
+SelfDelete="0"
+;!@InstallEnd@!
